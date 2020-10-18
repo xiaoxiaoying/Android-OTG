@@ -1,0 +1,3 @@
+include ':otg'
+include ':app'
+rootProject.name = "Android-OTG"
